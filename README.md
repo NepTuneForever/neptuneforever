@@ -24,4 +24,4 @@
  I'm a FullStack Programmer who is focused on discovering knowlegde, I have the ability to build Discord bots and Websites. I am passionate about building excellent software that help companys to reach sucess;
  I got 4 years of experience;
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever)](https://github.com/anuraghazra/github-readme-stats)
