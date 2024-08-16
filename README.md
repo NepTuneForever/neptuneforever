@@ -3,10 +3,11 @@
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
 ![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nepforever.cloud)
  
  ![Neptune's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=dracula)
 
- # Programming Skills
+ # Programming Skills;
 
  <div style='display: inline_block'><br/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
@@ -18,3 +19,9 @@
     <img align='center' alt='html5' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
  </div>
  
+ # My purprose is help enterprises and companys how to start in the technology area;
+
+ I'm a FullStack Programmer who is focused on discovering knowlegde, I have the ability to build Discord bots and Websites. I am passionate about building excellent software that help companys to reach sucess;
+ I got 4 years of experience;
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
