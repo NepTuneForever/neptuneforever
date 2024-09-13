@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hello,%2C+I'm+Neptune!)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hello%2C+I'm+Neptune!)]()
 
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
 ![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
