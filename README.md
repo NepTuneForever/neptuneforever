@@ -7,7 +7,7 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
 ---
 
 ## 🚀 Stack:
-🖥️ **Linguagens:** Python | JavaScript | PHP | Lua | C++ | Flask
+🖥️ **Linguagens:** Python | JavaScript | PHP | Lua | C++ | Flask <br>
 ⚡ **Especialidades:** Backend para jogos | Cybersecurity | Frontend Web | Efeitos Visuais  
 
 <div align="center" style='display: inline_block'><br/>
