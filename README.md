@@ -19,13 +19,14 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
     <img align='center' alt='html5' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
  </div>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🎯 Objetivos:  
-- 💰 **Ganhar dinheiro** com tecnologia  
-- 📚 **Aprender** e evoluir constantemente  
-- 🌟 **Ser reconhecido** pelo meu trabalho  
-- 🔥 **Criar influência e, quem sabe, até fama** no futuro  
+- 💰 Poder **transformar** a minha vida e das pessoas próximas a mim; 
+- 📚 **Aprender** e evoluir constantemente;
+- 🌟 **Ser reconhecido** pelo meu trabalho;
+- 🔥 **Criar influência e, quem sabe, até fama** no futuro;
 
 Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da programação. Sempre estou buscando desafios para melhorar meu conhecimento e deixar minha marca no mundo.  
 
