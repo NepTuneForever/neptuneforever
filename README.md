@@ -7,7 +7,7 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
 ---
 
 ## 🚀 Stack:
-🖥️ **Linguagens:** Python | JavaScript | PHP | Lua | C++  
+🖥️ **Linguagens:** Python | JavaScript | PHP | Lua | C++ | Flask
 ⚡ **Especialidades:** Backend para jogos | Cybersecurity | Frontend Web | Efeitos Visuais  
 <div align="center" style='display: inline_block'><br/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
