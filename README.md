@@ -1,27 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hello%2C+I'm+Neptune!)]()
- 
- ![Neptune's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=dracula)
+# 🌌 Neptune | Fullstack Developer  
 
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
-![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nepforever.cloud)
+> "O código é a arte da lógica, e eu gosto de criar coisas que impressionam."  
 
- # Programming Skills;
+Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades no mundo do desenvolvimento. Meu foco é criar soluções **criativas, organizadas e eficientes**, seja no **backend de jogos**, no **frontend para web** ou em **cybersecurity**.  
 
- <div align="center" style='display: inline_block'><br/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
- </div>
- 
- # My purprose is help enterprises and companys how to start in the technology area;
+---
 
- I'm a FullStack Programmer who is focused on discovering knowlegde, I have the ability to build Discord bots and Websites. I am passionate about building excellent software that help companys to reach sucess;
- I got 4 years of experience;
+## 🚀 Tech Stack  
+🖥️ **Linguagens:** Python | JavaScript | PHP | Lua | C++  
+⚡ **Especialidades:** Backend para jogos | Cybersecurity | Frontend Web | Efeitos Visuais  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🎯 Objetivos e Visão  
+- 💰 **Ganhar dinheiro** com tecnologia  
+- 📚 **Aprender** e evoluir constantemente  
+- 🌟 **Ser reconhecido** pelo meu trabalho  
+- 🔥 **Criar influência e, quem sabe, até fama** no futuro  
+
+Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da programação. Sempre estou buscando desafios para melhorar meu conhecimento e deixar minha marca no meio tech.  
+
+---
+
+## 🔗 Conecte-se comigo  
+💬 **Discord:** `n3ptune_`  
+🌍 **Website:** [nepforever.cloud](https://nepforever.cloud)  
+
+Se você curte tecnologia tanto quanto eu, bora trocar uma ideia! 🚀🔥  
