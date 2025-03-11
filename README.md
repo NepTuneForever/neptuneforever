@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&width=435&lines=Hello%2C+I'm+Neptune!)]()
+ 
+ ![Neptune's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=dracula)
 
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
 ![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_N3ptune_)
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nepforever.cloud)
- 
- ![Neptune's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=dracula)
 
  # Programming Skills;
 
- <div style='display: inline_block'><br/>
+ <div align="center" style='display: inline_block'><br/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
