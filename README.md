@@ -19,7 +19,7 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
     <img align='center' alt='html5' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
  </div>
 
-<div align='center'><br/>
+<div align='center'>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ---
