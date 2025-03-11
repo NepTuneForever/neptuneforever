@@ -32,7 +32,7 @@ Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da p
 ---
 
 ## 🔗 Conecte-se comigo  
-💬 **Discord:** `n3ptune_`  
+💬 **Discord:** @`n3ptune_`  
 🌍 **Website:** [nepforever.cloud](https://nepforever.cloud)  
 
 Se você curte tecnologia tanto quanto eu, bora trocar uma ideia! 🚀🔥  
