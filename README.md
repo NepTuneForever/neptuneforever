@@ -21,7 +21,7 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
 
 <div align="center" style='display: inline_block'><br/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=transparent)
  </div>
 ---
 
