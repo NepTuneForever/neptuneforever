@@ -44,5 +44,5 @@ Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da p
 Se você curte tecnologia tanto quanto eu, bora trocar uma ideia! 🚀🔥  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neptuneforever/neptuneforever/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
