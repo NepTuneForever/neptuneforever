@@ -2,7 +2,7 @@
 
 > "Uma base mal otimizada, gera problemas na estrutura." - Neptune 25
 
-Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades no mundo do desenvolvimento. Meu foco é criar soluções **criativas, organizadas e eficientes**, seja no **backend de jogos**, no **frontend para web** ou em **cybersecurity**.  
+Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades no mundo do desenvolvimento. Meu foco é criar soluções **criativas, organizadas e eficientes**, seja no **backend**, no **frontend** ou em **cybersecurity**.  
 
 ---
 
