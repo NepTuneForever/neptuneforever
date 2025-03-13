@@ -35,7 +35,7 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
 
 Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da programação. Sempre estou buscando desafios para melhorar meu conhecimento e deixar minha marca no mundo.  
 
-<div align="center"><br/>
+<div align="center"><br>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever)](https://github.com/anuraghazra/github-readme-stats)
 </div>
