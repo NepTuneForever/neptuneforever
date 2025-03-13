@@ -20,6 +20,8 @@ Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando apri
     <img align='center' alt='html5' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
  </div>
 
+ ---
+
 <div align="center" style='display: inline_block'><br/>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=transparent)
