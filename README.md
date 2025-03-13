@@ -37,7 +37,7 @@ Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da p
 
 <div align="center"><br>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever&layout=compact)
 </div>
 
 ---
