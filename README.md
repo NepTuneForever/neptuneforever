@@ -1,6 +1,6 @@
 # 🌌 Neptune | Fullstack Developer  
 
-> "Se voce deixa a realidade vencer e para de sonhar, voce acaba morrendo aos poucos." - Neptune 25
+> "Se você deixa a realidade vencer e para de sonhar, você acaba morrendo aos poucos." - Neptune 25
 
 Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades no mundo do desenvolvimento. Meu foco é criar soluções **criativas, organizadas e eficientes**, seja no **backend**, no **frontend** ou em **cybersecurity**.  
 
