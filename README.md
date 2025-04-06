@@ -6,7 +6,7 @@ I'm a **Fullstack** developer passionate about technology, always looking to imp
 ---
 
 ## 🚀 Stack:
-⚡ **Specialties:** Cybersecurity | FullStack | Visual Effects
+⚡ **Specialties:** Cybersecurity | FullStack | Visual Effects  <br>
 🖥️ **Languages:**
 
 <div align="center" style='display: inline_block'><br/> <img align='center' alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> <img align='center' alt='html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/> <img align='center' alt='css3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/> <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/> <img align='center' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/> <img align='center' alt='lua' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/> <img align='center' alt='flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/> </div>
