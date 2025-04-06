@@ -1,55 +1,36 @@
-# 🌌 Neptune | Fullstack Developer  
+🌌 Neptune | Fullstack Developer
+"If you let reality win and stop dreaming, you start dying little by little." - Neptune 25
 
-> "Se você deixa a realidade vencer e para de sonhar, você acaba morrendo aos poucos." - Neptune 25
+I'm a Fullstack developer passionate about technology, always looking to improve my skills and explore new possibilities in the development world. My focus is on building creative, organized, and efficient solutions, whether in backend, frontend, or cybersecurity.
 
-Sou um programador **Fullstack** apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades no mundo do desenvolvimento. Meu foco é criar soluções **criativas, organizadas e eficientes**, seja no **backend**, no **frontend** ou em **cybersecurity**.  
+🚀 Stack:
+⚡ Specialties: Cybersecurity | FullStack | Visual Effects
+🖥️ Languages:
 
----
-
-## 🚀 Stack:
-⚡ **Especialidades:** Cybersecurity | FullStack | Efeitos Visuais  
-🖥️ **Linguagens:**
-
-<div align="center" style='display: inline_block'><br/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
- </div>
-
- ---
-
+<div align="center" style='display: inline_block'><br/> <img align='center' alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> <img align='center' alt='html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/> <img align='center' alt='css3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/> <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/> <img align='center' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/> <img align='center' alt='lua' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/> <img align='center' alt='flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/> </div>
 <div align="center" style='display: inline_block'><br/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptuneforever&show_icons=true&theme=transparent)
- </div>
- 
----
 
-## 🎯 Objetivos:  
-- 💰 Poder **transformar** a minha vida e das pessoas próximas a mim; 
-- 📚 **Aprender** e evoluir constantemente;
-- 🌟 **Ser reconhecido** pelo meu trabalho;
-- 🔥 **Criar influência e, quem sabe, até fama** no futuro;
+</div>
+🎯 Goals:
+💰 Transform my life and the lives of those around me;
 
-Sou movido pela curiosidade e pelo desejo de criar algo que impacte o mundo da programação. Sempre estou buscando desafios para melhorar meu conhecimento e deixar minha marca no mundo.  
+📚 Learn and grow continuously;
+
+🌟 Be recognized for my work;
+
+🔥 Build influence and maybe even fame in the future;
+
+I'm driven by curiosity and the desire to create something that impacts the programming world. I'm always looking for challenges to sharpen my skills and leave my mark on the world.
 
 <div align="center"><br>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptuneforever&layout=compact)
+
+
 </div>
+🔗 Connect with me
+💬 Discord: n3ptune_
+🌍 Website: nepforever.cloud
 
----
+If you love programming as much as I do, let’s connect and chat! 🚀🔥
 
-## 🔗 Conecte-se comigo
-💬 **Discord:** `n3ptune_`  
-🌍 **Website:** [nepforever.cloud](https://nepforever.cloud)  
-
-Se você gosta de programação tanto quanto eu, bora trocar uma ideia! 🚀🔥  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/> </p>
