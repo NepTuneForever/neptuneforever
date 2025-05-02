@@ -24,6 +24,7 @@ I'm a **Fullstack** developer passionate about technology, always looking to imp
 I'm driven by curiosity and the desire to create something that impacts the programming world. I'm always looking for challenges to sharpen my skills and leave my mark on the world.
 
 <div align="center"><br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NepTuneForever&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub"/>
 </div>
 
 ---
