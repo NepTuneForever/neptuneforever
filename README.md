@@ -31,7 +31,7 @@ I'm driven by curiosity and the desire to create something that impacts the prog
 
 ## 🔗 Connect with me
 💬 **Discord**: n3ptune_
-🌍 **Website:** [nepforever.cloud]([https://nepforever.cloud](https://portf-snowy.vercel.app))
+🌍 **Website:** [nepforever.cloud](https://portf-snowy.vercel.app)
 
 If you love programming as much as I do, let’s connect and chat! 🚀🔥
 
