@@ -1,14 +1,11 @@
-# 👨‍💻 Neptune
+# 👨‍💻 Neptune | Fullstack Developer & AI Engineer (Python, TypeScript, Node.js, AI)
 
 > "If you let reality win and stop dreaming, you start dying little by little."
 
-**Fullstack Developer → focado em Backend, Systems Design e AI Engineering**
-
-Construo sistemas **rápidos, escaláveis e bem estruturados**, com foco em:
-- Arquitetura limpa
-- Performance real
-- Automação inteligente
-- Multiplayer systems (Roblox)
+I build **scalable backend systems, AI-driven tools, and multiplayer game logic** with a strong focus on:
+- performance
+- clean architecture
+- real-world automation
 
 ---
 
@@ -41,25 +38,32 @@ Construo sistemas **rápidos, escaláveis e bem estruturados**, com foco em:
 
 ## 🚀 Focus
 
-- AI Engineering aplicada (RL, automação, agentes)
-- Backend escalável e orientado a performance
-- Sistemas multiplayer e lógica de jogos
-- Ferramentas internas e automações
+- AI Engineering (RL, automation, agents)
+- High-performance backend systems
+- Multiplayer systems (Roblox)
+- Internal tools & automation pipelines
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NepTuneForever&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NepTuneForever&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NepTuneForever&layout=compact&hide_border=true&theme=tokyonight" 
+    height="160"
+  />
 </p>
 
 ---
 
 ## 🌐 Contact
 
-- **Discord:** n3ptune_
-- **Website:** https://nepdev.xyz
+- Discord: n3ptune_
+- Website: https://nepdev.xyz
 
 ---
 
