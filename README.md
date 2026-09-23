@@ -1,4 +1,4 @@
-# 👨‍💻 Neptune | Fullstack Developer & AI Engineer
+# 👨‍💻 Filipe Paredes | Fullstack Developer & AI Engineer
 
 
 > "If you let reality win and stop dreaming, you start dying little by little." - Neptune, 25
