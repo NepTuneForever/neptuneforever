@@ -3,7 +3,7 @@
 
 > "If you let reality win and stop dreaming, you start dying little by little." - Neptune, 25
 
-I build **scalable backend systems, AI-driven tools, and multiplayer game logic** with a strong focus on:
+I build **scalable backend systems & AI-driven tools** with a strong focus on:
 - performance
 - clean architecture
 - real-world automation
